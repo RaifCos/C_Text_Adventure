@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\School\OneDrive - National University of Ireland, Galway\Desktop\AdventureGame\AdventureGame\Source.c(77,5): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\School\OneDrive - National University of Ireland, Galway\Desktop\AdventureGame\AdventureGame\Source.c(81,20): warning C4013: 'toupper' undefined; assuming extern returning int
+  AdventureGame.vcxproj -> C:\Users\School\OneDrive - National University of Ireland, Galway\Desktop\AdventureGame\x64\Debug\AdventureGame.exe

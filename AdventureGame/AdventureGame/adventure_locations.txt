@@ -1,0 +1,6 @@
+ID	Destinations	Name	Description
+-----------------------------------
+0	0	INVENTORY	Used to Store Items.
+1	2 3	TOWN CENTRE	Several buildings stand in a line along the road. It doesn't seem too busy.
+2	1	PARK	There are various shrubs and trees everywhere, and a large statue in the middle. 
+3	1	BUS STOP	There's a single bench under plastic canopy with a Schedule on the wall. 
